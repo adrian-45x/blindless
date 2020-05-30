@@ -3,6 +3,8 @@ Bastón “inteligente” para ayudar a invidentes mediante el uso de sensores d
 
 <img src="Imágenes/Ciego icono.png" width="400" align="centre"> 
 
+<div align="center"><img src="Imágenes/Ciego icono.png"></div>
+
 En el repositorio puedes encontrar:
 - [Web del proyecto](https://sites.google.com/iesvaleix.com/blindless)
 - [Vídeo del proyecto]
