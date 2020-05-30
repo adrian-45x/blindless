@@ -4,7 +4,7 @@ Bastón “inteligente” para ayudar a invidentes mediante el uso de sensores d
 <img src="Imágenes/Ciego icono.png" width="400" align="center"> 
 
 En el repositorio puedes encontrar:
-- [Web del proyecto](https://github.com/Josepujol/ProyectosEstudiantes/blob/master/GafasInvidentes/MemoriaGafas.pdf)
+- [Web del proyecto](https://sites.google.com/iesvaleix.com/blindless)
 - [Código de Arduino (PMW)](https://github.com/Josepujol/ProyectosEstudiantes/blob/master/GafasInvidentes/Codigo_gafas.ino)
 - [Archivos STL con el diseño 3D del bastón](https://github.com/Josepujol/ProyectosEstudiantes/blob/master/GafasInvidentes/Gafas.stl)
 - [Esquema electronico de conexión](https://github.com/Josepujol/ProyectosEstudiantes/blob/master/GafasInvidentes/EsquematicoGafas_esquema.png)
