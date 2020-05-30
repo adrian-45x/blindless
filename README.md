@@ -6,8 +6,8 @@ Bastón “inteligente” para ayudar a invidentes mediante el uso de sensores d
 En el repositorio puedes encontrar:
 - [Web del proyecto](https://sites.google.com/iesvaleix.com/blindless)
 - [Vídeo del proyecto]
-- [Código de Arduino (PMW)](https://github.com/Josepujol/ProyectosEstudiantes/blob/master/GafasInvidentes/Codigo_gafas.ino)
-- [Archivos STL con el diseño 3D del bastón](https://github.com/Josepujol/ProyectosEstudiantes/blob/master/GafasInvidentes/Gafas.stl)
+- [Código de Arduino (PMW)](https://github.com/adrian-45x/blindless/blob/master/C%C3%B3digo%20bast%C3%B3n.ino)
+- [Archivos STL con el diseño 3D del bastón](https://github.com/adrian-45x/blindless/tree/master/Dise%C3%B1os%203D%20bast%C3%B3n)
 - [Esquemas de conexión](https://github.com/adrian-45x/blindless/tree/master/Esquemas%20de%20conexi%C3%B3n)
 
 ## LICENCIA
